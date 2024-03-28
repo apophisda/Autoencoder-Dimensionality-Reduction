@@ -28,5 +28,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contributors
 - Vishal Singh - [LinkedIn](https://www.linkedin.com/in/vishal-singh-326b97227/)
-- Vedant Kumar - [LinkedIn]([link_to_vedant_linkedin](https://www.linkedin.com/in/vedant-kumar-2249b0254/ )
-- M. Aditya - [LinkedIn]([link_to_aditya_linkedin](https://www.linkedin.com/in/m-aditya-b56965238/)
+- Vedant Kumar - [LinkedIn](https://www.linkedin.com/in/vedant-kumar-2249b0254/)
+- M. Aditya - [LinkedIn](https://www.linkedin.com/in/m-aditya-b56965238/)
