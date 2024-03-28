@@ -14,7 +14,7 @@ This project explores the application of autoencoders, a type of artificial neur
 ## Repository Contents
 - [Report.pdf](report.pdf) - The detailed report of the project, including methodology, results, analysis, and conclusions
 - [Dataset](Dataset) - The dataset files used in the project (CSV format)
-- [Notebook.ipynb](AE.ipynb) - The original Jupyter Notebook file containing the code implementation and analysis
+- [Notebook.ipynb](AEnotebook/AE.ipynb) - The original Jupyter Notebook file containing the code implementation and analysis
 
 ## Getting Started
 To replicate the project or explore the code, follow these steps:
